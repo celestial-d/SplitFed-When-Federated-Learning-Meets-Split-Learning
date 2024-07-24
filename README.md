@@ -24,3 +24,5 @@ All programs are written in python 3.7.2 using the PyTorch library (PyTorch 1.2.
 Dataset: HAM10000
 
 Model: ResNet18
+
+data folder should have: 1) csv 2)images(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) data/*/*.jpg
