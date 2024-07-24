@@ -30,4 +30,9 @@ data folder should have: 1) csv 2)images(https://dataverse.harvard.edu/dataset.x
 
 ## Error debug
 
-AvgPool2d(2):  7 change to 2 for all py files 
+AvgPool2d(2):  
+
+Normal: 7 change to 2 
+
+
+
