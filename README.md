@@ -34,5 +34,7 @@ AvgPool2d(2):
 
 Normal: 7 change to 2 
 
+other:  F.avg_pool2d(x6, 2)  #7 to 2    ;    F.avg_pool2d(x6, 2) #7 to 2
+
 
 
