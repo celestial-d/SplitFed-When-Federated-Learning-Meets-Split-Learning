@@ -26,3 +26,8 @@ Dataset: HAM10000
 Model: ResNet18
 
 data folder should have: 1) csv 2)images(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) data/*/*.jpg
+
+
+## Error debug
+
+AvgPool2d(2)  7 change to 2 for all py files 
